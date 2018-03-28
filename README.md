@@ -25,4 +25,4 @@ En esta parte se describe la funcionalidad del proyecto descrito en pasos.
 
 bla bla bla
 
-![Diagrama de flujo del problema SCOREKEEPER](assets/img/diagrama-blanco.png)
+![Diagrama de flujo del problema SCOREKEEPER](assets/images/diagrama-flujo.png)
